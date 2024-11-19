@@ -1,2 +1,2 @@
 ## Ссылка на мое резюме (CV)
-[https://github.com/KateRina-rina/rsschool-cv/blob/gh-pages/cv.md]
+[https://Katieleven.github.io/rsschool-cv/cv](./cv.md)
